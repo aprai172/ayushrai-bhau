@@ -32,7 +32,7 @@ I am a passionate Full Stack Developer with a strong foundation in both front-en
 - Experimenting with new technologies and best practices in software development.
 
 ## 🌱 What I'm Learning
-- Deepening my knowledge of DevOps and cloud architecture.
+- Deepening my knowledge of Genrative AI and Automations tool.
 - Exploring advanced topics in machine learning and AI.
 
 ## 📫 How to Reach Me
