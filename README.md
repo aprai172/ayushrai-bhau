@@ -49,7 +49,7 @@ I am a passionate Full Stack Developer with a strong foundation in both front-en
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrai-bhau&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aprai172&theme=radical" />
 </p>
 
 ---
