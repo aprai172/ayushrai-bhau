@@ -44,7 +44,7 @@ I am a passionate Full Stack Developer with a strong foundation in both front-en
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushrai-bhau&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aprai172&show_icons=true&theme=radical" />
 
 </p>
 
